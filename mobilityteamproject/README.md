@@ -62,7 +62,11 @@
 
     - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step1_helmet_data_processing)을 클릭해주세요
 
-  - (Step2) Model training and tflite convert [part1.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part1.ipynb) [part2.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part2.ipynb) [part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part3.ipynb)
+  - (Step2) Model training and tflite convert
+    - 실습 코드    
+      - [helmet_classification_for_tinyMLproject_part1.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part1.ipynb)
+      - [helmet_classification_for_tinyMLproject_part2.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part2.ipynb)
+      - [helmet_classification_for_tinyMLproject_part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part3.ipynb)
     - 수행과정
       - 라즈베리파이와 같이 저사양에서도 충분히 구동할 수 있는 Mobilenet v2 를 학습합니다.
       - 우선 Keras 에서 기본적으로 제공하는 Mobilenet v2 를 활용해서 모델을 만들어 봅니다.
@@ -74,7 +78,7 @@
     - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step2_Model_training_and_tflite_convert)을 클릭해주세요
 
 
-  - (Step3) Raspberry Pi Porting [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)  
+  - (Step3) Raspberry Pi Porting [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step3_Raspberry_Pi_Porting)  
 
     - 개발환경 설정
       - 필요 패키지 리스트
