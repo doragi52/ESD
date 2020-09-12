@@ -64,7 +64,6 @@
       - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/modeling-with-code)을 클릭해주세요
 
     
-<br>
 - 라즈베리파이 [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)  
 
   - 개발환경 설정
