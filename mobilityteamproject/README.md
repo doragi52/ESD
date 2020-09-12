@@ -60,7 +60,7 @@
       - 더 복잡한 문제를 해결하기 위해서는, 정말 복잡한 전처리 과정들과 기법이 들어가지만, 데이터를 "사용할 수 있는 형태로 만드는" 전처리를 한번 수행해 보도록 하는 시간입니다.
       - 우리의 요구사항에 맞게 데이터를 변형해 줍니다. (Object Detection → Image Classification)
 
-    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmet-data-preprocessing)을 클릭해주세요
+    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step1_helmet_data_processing)을 클릭해주세요
 
   - (Step2) Model training and tflite convert [part1.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part1.ipynb) [part2.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part2.ipynb) [part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part3.ipynb)
     - 수행과정
@@ -71,7 +71,7 @@
       - (experimental) Grad-Cam 이라는 방법을 통해 해석해 봅니다.
 
 
-    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/modeling-with-code)을 클릭해주세요
+    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step2_Model_training_and_tflite_convert)을 클릭해주세요
 
 
   - (Step3) Raspberry Pi Porting [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)  
@@ -106,9 +106,9 @@
           sudo apt-get install libedgetpu1-std
           sudo apt-get install libedgetpu1-max
         ```
-       
-    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)을 클릭해주세요
-       
+
+    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step3_Raspberry_Pi_Porting)을 클릭해주세요
+
 ### reference
   - 헬멧 착용 데이터
     - [캐글 사이트](https://www.kaggle.com/abhishek4273/helmet-dataset)
