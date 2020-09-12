@@ -89,22 +89,22 @@
       5. 패키치 설치가 완료되면 이 helmet classification repository git clone한다.
       6. python helmetclassification.py를 실행시킨다.
 
-  - (Option) Google Coral accelerator 연결 및 설치
-    - 구글에서 만든 딥러닝 연산 보조장치 (TPU / Tensor Processing Unit) 로써, 라즈베리파이에 연결하여 사용할 수 있다.
-    - 사용법
-        ```bash
-        echo "deb https://packages.cloud.google.com/apt coral-edgetpu-stable main" | sudo tee /etc/apt/sources.list.d/coral-edgetpu.list
+    - (Option) Google Coral accelerator 연결 및 설치
+      - 구글에서 만든 딥러닝 연산 보조장치 (TPU / Tensor Processing Unit) 로써, 라즈베리파이에 연결하여 사용할 수 있다.
+      - 사용법
+          ```bash
+          echo "deb https://packages.cloud.google.com/apt coral-edgetpu-stable main" | sudo tee /etc/apt/sources.list.d/coral-edgetpu.list
 
-        curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add -
+          curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add -
 
-        sudo apt-get update
+          sudo apt-get update
 
-        // USB 가 꽂혀 있으면 우선 다시 뽑아야 함
-        // 이미 꽂힌 채로 아래 커맨드를 수행할 시 제거 후 재설치
-        // 아래 커맨드는 둘 중 하나 선택.
+          // USB 가 꽂혀 있으면 우선 다시 뽑아야 함
+          // 이미 꽂힌 채로 아래 커맨드를 수행할 시 제거 후 재설치
+          // 아래 커맨드는 둘 중 하나 선택.
 
-        sudo apt-get install libedgetpu1-std
-        sudo apt-get install libedgetpu1-max
+          sudo apt-get install libedgetpu1-std
+          sudo apt-get install libedgetpu1-max
         ```
        
     - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)을 클릭해주세요
