@@ -55,6 +55,7 @@
         - 헬멧 착용 데이터 파일
         - 헬멧 미착용 데이터 파일
 
+      - 수행과정
         - 자, 여기 다양한 경로로부터 수집한 데이터셋이 주어졌습니다.
         - 하지만 우리가 구할 수 있는 최선의 데이터 일부는 우리가 원하는 형식이 아닐 때가 종종 있습니다.
         - 더 복잡한 문제를 해결하기 위해서는, 정말 복잡한 전처리 과정들과 기법이 들어가지만, 데이터를 "사용할 수 있는 형태로 만드는" 전처리를 한번 수행해 보도록 하는 시간입니다.
@@ -63,15 +64,15 @@
       - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmet-data-preprocessing)을 클릭해주세요
 
   - (Step2) 모델 학습 및 tflite 변환 [part1.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part1.ipynb) [part2.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part2.ipynb) [part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part3.ipynb)
+    - 수행과정
+      - 라즈베리파이와 같이 저사양에서도 충분히 구동할 수 있는 Mobilenet v2 를 학습합니다.
+      - 우선 Keras 에서 기본적으로 제공하는 Mobilenet v2 를 활용해서 모델을 만들어 봅니다.
+      - 기본으로 제공하는 모델을 개선하기 위해, 직접 Mobilenet v2 구조를 구현하고 모델을 제작해 봅니다.
+      - 만들어진 모델을 학습하고, 모델을 텐서플로우 라이트 파일로 변환하는 시간을 갖습니다.
+      - (experimental) Grad-Cam 이라는 방법을 통해 해석해 봅니다.
 
-    - 라즈베리파이와 같이 저사양에서도 충분히 구동할 수 있는 Mobilenet v2 를 학습합니다.
-    - 우선 Keras 에서 기본적으로 제공하는 Mobilenet v2 를 활용해서 모델을 만들어 봅니다.
-    - 기본으로 제공하는 모델을 개선하기 위해, 직접 Mobilenet v2 구조를 구현하고 모델을 제작해 봅니다.
-    - 만들어진 모델을 학습하고, 모델을 텐서플로우 라이트 파일로 변환하는 시간을 갖습니다.
-    - (experimental) Grad-Cam 이라는 방법을 통해 해석해 봅니다.
 
-
-      - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/modeling-with-code)을 클릭해주세요
+    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/modeling-with-code)을 클릭해주세요
 
 
 - (Step3) 라즈베리파이 [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)  
@@ -111,7 +112,7 @@
 ### reference
 
   - 헬멧 착용 데이터
-    -[캐글 사이트](https://www.kaggle.com/abhishek4273/helmet-dataset)
+    - [캐글 사이트](https://www.kaggle.com/abhishek4273/helmet-dataset)
 
   - 헬멧 미착용 데이터
     - [Labeled Faces in the Wild Home](http://vis-www.cs.umass.edu/lfw/)
