@@ -32,10 +32,10 @@ opencv-python
 
 - 1-1 을 진행하기 위해 필요한 것들
     - 헬멧 착용 데이터 파일1 : [다운로드 링크]()
-    - 헬멧 미착용 데이터 파일1 : [다운로드 링크]([https://drive.google.com/file/d/1p7svGkjQfg-p0cIjdMa59KyiYEv7jZVC/view?usp=sharing](https://drive.google.com/file/d/1p7svGkjQfg-p0cIjdMa59KyiYEv7jZVC/view?usp=sharing))
+    - 헬멧 미착용 데이터 파일1 : [다운로드 링크](https://drive.google.com/file/d/1p7svGkjQfg-p0cIjdMa59KyiYEv7jZVC/view?usp=sharing](https://drive.google.com/file/d/1p7svGkjQfg-p0cIjdMa59KyiYEv7jZVC/view?usp=sharing)
 - 1-1 을 마치면 나오는 결과물
-    - 헬멧 착용 데이터 파일2 : [링크]([https://drive.google.com/file/d/1PeyTi_bW23ZSYvybofnON-qOmi5aG0Bi/view?usp=sharing](https://drive.google.com/file/d/1PeyTi_bW23ZSYvybofnON-qOmi5aG0Bi/view?usp=sharing))
-    - 헬멧 미착용 데이터 파일2 : [링크]([https://drive.google.com/file/d/1p7svGkjQfg-p0cIjdMa59KyiYEv7jZVC/view?usp=sharing](https://drive.google.com/file/d/1p7svGkjQfg-p0cIjdMa59KyiYEv7jZVC/view?usp=sharing))
+    - 헬멧 착용 데이터 파일2 : [링크](https://drive.google.com/file/d/1PeyTi_bW23ZSYvybofnON-qOmi5aG0Bi/view?usp=sharing](https://drive.google.com/file/d/1PeyTi_bW23ZSYvybofnON-qOmi5aG0Bi/view?usp=sharing)
+    - 헬멧 미착용 데이터 파일2 : [링크](https://drive.google.com/file/d/1p7svGkjQfg-p0cIjdMa59KyiYEv7jZVC/view?usp=sharing](https://drive.google.com/file/d/1p7svGkjQfg-p0cIjdMa59KyiYEv7jZVC/view?usp=sharing)
 - 여기서 무엇을 하나요?
     - 우리가 준비한 파일은, Kaggle 에서 다운로드받은 Helmet Detection Dataset 입니다.
     - Detection 을 수행하기 위해서는, 이미지 파일마다, 어디에 헬멧을 쓴 얼굴이 있는지 어디에 헬멧을 쓰지 않은 얼굴이 있는지를 나타내는 정보를 담은 파일이 필요합니다.
