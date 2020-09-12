@@ -35,7 +35,7 @@
   - OS : Raspbian Linux
 
   - python 3.7 higher 버전이 필요
-<br>
+
 - 사용 부품
   - Raspberry Pi Model : Raspberry Pi 4 B 1GB RAM
   - Memory : 32GB sd card
