@@ -77,7 +77,8 @@
 
     - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step2_Model_training_and_tflite_convert)을 클릭해주세요
 
-
+   
+- Application
   - (Step3) Raspberry Pi Porting [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step3_Raspberry_Pi_Porting)  
 
     - 개발환경 설정
