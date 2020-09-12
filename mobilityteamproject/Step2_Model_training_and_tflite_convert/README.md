@@ -39,7 +39,7 @@
     - 차근차근 진행하시는 분들께, 어려운 내용일 것이라고 예상합니다. 그렇다면, 모델을 이렇게 쌓는구나! 정도만 이해하고 넘어가 주세요. 다시 공부할 필요가 있을 때 유용하게 사용될 수 있는 코드일 것입니다.
 - 결과물은 어떻게 생성되나요?
 
-### 2-3-helmet_classification_for_tinyMLproject_part1.ipynb
+### 2-3-helmet_classification_for_tinyMLproject_part3.ipynb
 
 - 2-3 을 진행하기 위해 필요한 것들
 - 2-3 을 마치면 나오는 결과물
