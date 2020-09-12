@@ -47,12 +47,10 @@
 - 결과물은 어떻게 생성되나요?
 
 - tensorflow 모델 만들기
-    - 연관 파일 1-2-
-    - 연관 파일 1-3-
-    - 연관 파일
+    - 결과 파일
     - teachable machine
-        - [teachable machine 페이지 링크](https://teachablemachine.withgoogle.com/train)
-        - [결과파일 링크](https://drive.google.com/drive/u/0/folders/1HNxIY8bJfM3V29yvG2_W32y51BIH3PQJ)
+        - [teachable machine 페이지](https://teachablemachine.withgoogle.com/train)
+        - [결과파일](https://drive.google.com/drive/u/0/folders/1HNxIY8bJfM3V29yvG2_W32y51BIH3PQJ)
     - 직접 keras 로 구현
         - [결과물 코드 Github 링크](https://github.com/tinyml-mobility/modeling-with-code/blob/master/helmet_classification_for_tinyMLproject_part2.ipynb)
     - 위 모델을 tflite로 변환
