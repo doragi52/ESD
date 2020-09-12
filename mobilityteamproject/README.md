@@ -6,11 +6,9 @@
 
 
 - Watching U
-  - Helmet Detection for mobility
+  - Helmet Detection for mobility   
    
    
-<br>
-<br>  
 ### 프로젝트 개요   
 
 
