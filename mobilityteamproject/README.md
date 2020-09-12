@@ -45,8 +45,6 @@
 
 
 
-<br>
-<br>
 ### 진행 과정
 
 - Tensorflow-lite Model
