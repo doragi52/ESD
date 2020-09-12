@@ -65,7 +65,7 @@
 
     
 <br>
-- 라즈베리파이 [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)
+- 라즈베리파이 [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)  
 
   - 개발환경 설정
     - 간단한 설명
