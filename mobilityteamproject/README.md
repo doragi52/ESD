@@ -48,11 +48,11 @@
 
 - Tensorflow-lite Model
 
-  - (Step1) helmet_data_processing [kaggle-data-processing.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/helmet-data-preprocessing/kaggle-data-processing.ipynb)
+  - (Step1) Helmet data processing [kaggle-data-processing.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/helmet-data-preprocessing/kaggle-data-processing.ipynb)
 
     - 데이터  
-      - 헬멧 착용 데이터 파일
-      - 헬멧 미착용 데이터 파일
+      - [헬멧 착용 데이터 파일](https://drive.google.com/file/d/1QaMy1wigb7E0T4wPNElUERWwuRg0S186/view)
+      - [헬멧 미착용 데이터 파일](https://drive.google.com/file/d/1p7svGkjQfg-p0cIjdMa59KyiYEv7jZVC/view)
 
     - 수행과정
       - 자, 여기 다양한 경로로부터 수집한 데이터셋이 주어졌습니다.
@@ -74,7 +74,7 @@
     - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/modeling-with-code)을 클릭해주세요
 
 
-  - (Step3) RaspberryPi Porting [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)  
+  - (Step3) Raspberry Pi Porting [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)  
 
     - 개발환경 설정
       - 필요 패키지 리스트
@@ -82,7 +82,7 @@
         - openCV 설치
 
     - 헬멧 탐지 및 음성 출력 코드 작성
-      1. (위에 나와있는 설치법대로) RasberryPi, Coral, Opencv를 설치한다.
+      1. RasberryPi, Coral, Opencv를 설치한다.
       2. Rasbberry Pi 내부에 command창을 켜, ~/opencv4/samples/python 디렉토리로 이동해준다.
       3. 가상환경을 만든다.
       4. 가상환경을 만든 뒤, 위에 나와있는 package들을 설치해준다.
@@ -106,6 +106,9 @@
         sudo apt-get install libedgetpu1-std
         sudo apt-get install libedgetpu1-max
         ```
+       
+    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/helmetclassifcation)을 클릭해주세요
+       
 ### reference
   - 헬멧 착용 데이터
     - [캐글 사이트](https://www.kaggle.com/abhishek4273/helmet-dataset)
