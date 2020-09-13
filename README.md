@@ -52,6 +52,7 @@ Watch Out은 Tensorflow Lite 모델을 이용해 위험한 소리를 대신 인�
 - **모델 학습으로 [train_speech_model_ios_ko.ipynb](https://colab.research.google.com/github/sanghunkang/tensorflow-lite/blob/master/mobile_team_project/model_training/train_speech_model_ios_ko.ipynb)
 
 ![./images/watchout.gif](./images/watchout.gif)
+![./images/systemArchitecture.png](./images/systemArchitecture.png)
 
 ### TFLite Mobility 팀
 
