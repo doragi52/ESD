@@ -1,10 +1,10 @@
 # Step2 : 모델 작성, 학습, 평가, 개선, 저장
 
-[2-1-helmet_classification_for_tinyMLproject_part1.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part1.ipynb)
+[2-1-helmet_classification_for_tinyMLproject_part1.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step2_Model_training_and_tflite_convert/helmet_classification_for_tinyMLproject_part1.ipynb)
 
-[2-2-helmet_classification_for_tinyMLproject_part2.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part2.ipynb)
+[2-2-helmet_classification_for_tinyMLproject_part2.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step2_Model_training_and_tflite_convert/helmet_classification_for_tinyMLproject_part2.ipynb)
 
-[2-3-helmet_classification_for_tinyMLproject_part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part3.ipynb)
+[2-3-helmet_classification_for_tinyMLproject_part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step2_Model_training_and_tflite_convert/helmet_classification_for_tinyMLproject_part3.ipynb)
 
 ### 2-1-helmet_classification_for_tinyMLproject_part1.ipynb
 

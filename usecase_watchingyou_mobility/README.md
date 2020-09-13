@@ -48,7 +48,7 @@
 
 - Tensorflow-lite Model
 
-  - (Step1) Helmet data processing [kaggle-data-processing.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/helmet-data-preprocessing/kaggle-data-processing.ipynb)
+  - (Step1) Helmet data processing [kaggle-data-processing.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step1_helmet_data_processing/kaggle-data-processing.ipynb)
 
     - 데이터  
       - [헬멧 착용 데이터 파일](https://drive.google.com/file/d/1QaMy1wigb7E0T4wPNElUERWwuRg0S186/view)
@@ -64,9 +64,9 @@
 
   - (Step2) Model training and tflite convert
     - 실습 코드    
-      - [helmet_classification_for_tinyMLproject_part1.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part1.ipynb)
-      - [helmet_classification_for_tinyMLproject_part2.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part2.ipynb)
-      - [helmet_classification_for_tinyMLproject_part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/mobilityteamproject/modeling-with-code/helmet_classification_for_tinyMLproject_part3.ipynb)
+      - [helmet_classification_for_tinyMLproject_part1.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step1_helmet_data_processing/helmet_classification_for_tinyMLproject_part1.ipynb)
+      - [helmet_classification_for_tinyMLproject_part2.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step1_helmet_data_processing/helmet_classification_for_tinyMLproject_part2.ipynb)
+      - [helmet_classification_for_tinyMLproject_part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step1_helmet_data_processing/helmet_classification_for_tinyMLproject_part3.ipynb)
     - 수행과정
       - 라즈베리파이와 같이 저사양에서도 충분히 구동할 수 있는 Mobilenet v2 를 학습합니다.
       - 우선 Keras 에서 기본적으로 제공하는 Mobilenet v2 를 활용해서 모델을 만들어 봅니다.
@@ -74,11 +74,11 @@
       - 만들어진 모델을 학습하고, 모델을 텐서플로우 라이트 파일로 변환하는 시간을 갖습니다.
       - (experimental) Grad-Cam 이라는 방법을 통해 해석해 봅니다.
 
-    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step2_Model_training_and_tflite_convert)을 클릭해주세요
+    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchingyou_mobility/Step2_Model_training_and_tflite_convert)을 클릭해주세요
 
-   
+
 - Application
-  - (Step3) Raspberry Pi Porting [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step3_Raspberry_Pi_Porting)  
+  - (Step3) Raspberry Pi Porting [README 링크](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchingyou_mobility/Step3_Raspberry_Pi_Porting)  
 
     - 개발환경 설정
       - 필요 패키지 리스트
@@ -111,7 +111,7 @@
           sudo apt-get install libedgetpu1-max
         ```
 
-    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/mobilityteamproject/Step3_Raspberry_Pi_Porting)을 클릭해주세요
+    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchingyou_mobility/Step3_Raspberry_Pi_Porting)을 클릭해주세요
 
 ### reference
   - 헬멧 착용 데이터
