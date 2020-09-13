@@ -49,7 +49,7 @@ TinyML 번역서의 한국 독자들을 위한 한글 소스코드 저장소를 
 Watch Out은 Tensorflow Lite 모델을 이용해 위험한 소리를 대신 인식 해주는 iOS & WatchOS 프로젝트입니다.
 
 - 이 프로젝트에 대한 더 자세한 정보는 [여기](https://github.com/yoonseok312/watch-out)를 참고해주세요.
-- **모델 학습으로 [train_speech_model_ios_ko.ipynb](https://colab.research.google.com/github/sanghunkang/tensorflow-lite/blob/master/mobile_team_project/model_training/train_speech_model_ios_ko.ipynb)
+- **모델 학습으로 바로가기 [train_speech_model_ios_ko.ipynb](https://colab.research.google.com/github/sanghunkang/tensorflow-lite/blob/master/mobile_team_project/model_training/train_speech_model_ios_ko.ipynb)
 
 ![./images/watchout.gif](./images/watchout.gif)
 ![./images/systemArchitecture.png](./images/systemArchitecture.png)
