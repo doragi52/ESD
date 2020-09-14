@@ -60,7 +60,7 @@
       - 더 복잡한 문제를 해결하기 위해서는, 정말 복잡한 전처리 과정들과 기법이 들어가지만, 데이터를 "사용할 수 있는 형태로 만드는" 전처리를 한번 수행해 보도록 하는 시간입니다.
       - 우리의 요구사항에 맞게 데이터를 변형해 줍니다. (Object Detection → Image Classification)
 
-    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/tinyml-mobility/tensorflow-lite/tree/master/usecase_watchingyou_mobility/Step1_helmet_data_processing)을 클릭해주세요
+    - 더 자세한 설명을 원하시면 [이 곳](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchingyou_mobility/Step1_helmet_data_processing)을 클릭해주세요
 
   - (Step2) Model training and tflite convert
     - 실습 코드    
