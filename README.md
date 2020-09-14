@@ -66,8 +66,16 @@ Watch Ya는 전동킥보드 탑승자의 헬멧 착용 여부를 탐지하고, �
 
 ![./images/systemArchitecture_watchya.png](./images/systemArchitecture_watchya.png)
 
-- 보다 자세한 내용은 [여기](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchya_mobility)를 참고해주세요.
 
+- __모델 학습으로 바로가기__ 
+    - (Step1) 헬멧 데이터 전처리 [kaggle-data-processing.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchya_mobility/Step1_helmet_data_processing/kaggle-data-processing.ipynb)
+    - (Step2) 모델 학습 및 텐서플로우 라이트 모델 변환 
+        - [helmet_classification_for_tinyMLproject_part1.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchya_mobility/Step2_Model_training_and_tflite_convert/helmet_classification_for_tinyMLproject_part1.ipynb)
+        - [helmet_classification_for_tinyMLproject_part2.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchya_mobility/Step2_Model_training_and_tflite_convert/helmet_classification_for_tinyMLproject_part2.ipynb)
+        - [helmet_classification_for_tinyMLproject_part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchya_mobility/Step2_Model_training_and_tflite_convert/helmet_classification_for_tinyMLproject_part3.ipynb)
+    - (Step3) 라즈베리파이(Raspberry Pi)에 이식하기  [가이드 살펴보기](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchya_mobility/Step3_Raspberry_Pi_Porting)  
+        
+- 보다 자세한 내용은 [여기](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchya_mobility)를 참고해주세요.
 
 ### Collaborators
 
