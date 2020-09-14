@@ -12,7 +12,7 @@
     - 헬멧 착용 데이터2 : [링크](https://drive.google.com/file/d/1PeyTi_bW23ZSYvybofnON-qOmi5aG0Bi/view?usp=sharing)
     - 헬멧 미착용 데이터2 : [링크](https://drive.google.com/file/d/1p7svGkjQfg-p0cIjdMa59KyiYEv7jZVC/view)
 - 2-1 을 마치면 나오는 결과물
-    - 작업 경로 파일 : <파일명>
+    - 작업 경로 파일 : [다운로드 링크](https://drive.google.com/drive/folders/1epuyZaubblQXu3kV1dsEuq2ALI2ySpto?usp=sharing)
     - 케라스 모델 + 모델 가중치 파일 : helmet_classification_model.h5
 - 여기서 무엇을 하나요?
     - Google Drive 와 Google Colab 을 연동시켜 데이터를 불러옵니다.
@@ -33,7 +33,7 @@
 ### 2-2-helmet_classification_for_tinyMLproject_part2.ipynb
 
 - 2-2 을 진행하기 위해 필요한 것들
-    - 작업 경로 파일 : <파일명>
+    - 작업 경로 파일 : [다운로드 링크](https://drive.google.com/drive/folders/1epuyZaubblQXu3kV1dsEuq2ALI2ySpto?usp=sharing)
 - 2-2 을 마치면 나오는 결과물
     - 케라스 모델 + 모델 가중치 파일 : helmet_classification_model_handmaded_mobilenet.h5
 - 여기서 무엇을 하나요?
@@ -52,7 +52,8 @@
 ### 2-3-helmet_classification_for_tinyMLproject_part1.ipynb
 
 - 2-3 을 진행하기 위해 필요한 것들
-    - 작업 경로 파일 : <파일명>
+    - 작업 경로 파일 : [다운로드 링크](https://drive.google.com/drive/folders/1epuyZaubblQXu3kV1dsEuq2ALI2ySpto?usp=sharing)
+        - 작업 경로 파일 내에 아래 모델 파일이 들어 있어야 합니다.
     - 케라스 모델 + 모델 가중치 파일 : helmet_classification_model_handmaded_mobilenet.h5
         - helmet_classification_model.h5 를 사용해도 좋으나 일부 소스코드를 수정해야 합니다.
 - 2-3 을 마치면 나오는 결과물
