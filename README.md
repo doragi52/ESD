@@ -44,6 +44,8 @@ TinyML 번역서의 한국 독자들을 위한 한글 소스코드 저장소를 
 
 ### Project Showcase
 
+아래의 프로젝트들은 Tensorflow Lite를 활용하여 진행되었습니다. Tensorflow Lite를 활용한 프로젝트라면 자유롭게 Pull Request를 보내주시면 검토 후 추가하도록 하겠습니다. 
+
 ### Watch Out - 딥러닝 기반 음성인식 알림 서비스 (모바일 & 애플워치)
 Watch Out은 Tensorflow Lite 모델을 이용해 위험한 소리를 대신 인식 해주는 iOS & WatchOS 프로젝트입니다. 
 
