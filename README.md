@@ -57,7 +57,7 @@ Watch Out은 Tensorflow Lite 모델을 이용해 위험한 소리를 대신 인�
 - 이 프로젝트에 대한 더 자세한 정보는 [여기](https://github.com/yoonseok312/watch-out)를 참고해주세요.
 
 
-### Watch Ya -
+### Watch Ya - 텐서플로우 라이트를 이용한 디바이스
 
 Watch Ya는 전동킥보드 탑승자의 헬멧 착용 여부를 탐지하고, 착용하지 않은 경우 경고 알람을 내보내는 Tiny ML 디바이스를 만드는 프로젝트입니다.   
 
