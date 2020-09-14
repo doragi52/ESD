@@ -157,7 +157,7 @@
 2. Rasbberry Pi 내부에 command창을 켜,  ~/opencv4/samples/python 디렉토리로 cd해준다.
 3. 그 후 가상환경을 만든다
 4. 가상환경을 만든 뒤, 위에 나와있는 package들을 설치해준다
-5. 패키치 설치가 완료되면 이 [Step3_Raspberry_Pi_Porting](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchingyou_mobility/Step3_Raspberry_Pi_Porting)  git clone한다.
+5. 패키치 설치가 완료되면 이 [Step3_Raspberry_Pi_Porting](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchya_mobility/Step3_Raspberry_Pi_Porting)  git clone한다.
 6. python helmetclassification.py를 실행시킨다! (실행 중지시키고 싶으면 Ctrl+C를 누른다.)
 
 
