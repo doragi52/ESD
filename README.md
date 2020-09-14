@@ -63,7 +63,7 @@ Watch Ya는 전동킥보드 탑승자의 헬멧 착용 여부를 탐지하고, �
 
 ![./images/watchya.gif](https://user-images.githubusercontent.com/48935917/93053012-21c64c00-f6a2-11ea-9e11-c4fee4176a28.gif)
 
-![./images/systemArchitecture_watchya.png](./images/systemArchitecture_watchya.png)
+![./images/systemArchitecture_watchya.png](https://user-images.githubusercontent.com/48935917/93053047-386ca300-f6a2-11ea-9cc2-ad83f9944846.png)
 
 - 보다 자세한 내용은 [여기](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchingyou_mobility)를 참고해주세요.
 
