@@ -44,11 +44,12 @@ TinyML 번역서의 한국 독자들을 위한 한글 소스코드 저장소를 
 
 ### Project Showcase
 
-### Watch Out - 텐서플로우 라이트를 이용한 모바일 어플
-
-Watch Out은 Tensorflow Lite 모델을 이용해 위험한 소리를 대신 인식 해주는 iOS & WatchOS 프로젝트입니다.
+### Watch Out - 딥러닝 기반 음성인식 알림 서비스 (모바일 & 애플워치)
+Watch Out은 Tensorflow Lite 모델을 이용해 위험한 소리를 대신 인식 해주는 iOS & WatchOS 프로젝트입니다. 
 
 ![./images/watchout.gif](./images/watchout.gif)
+
+청각장애인이 사용할 경우를 생각하여 모델 커스텀 트레이닝을 통해 이름을 인식할 수 있도록 트레이닝 가이드를 추가하였습니다. 전반적인 아키텍처는 다음과 같습니다. 
 
 ![./images/systemArchitecture.png](./images/systemArchitecture.png)
 
@@ -57,11 +58,11 @@ Watch Out은 Tensorflow Lite 모델을 이용해 위험한 소리를 대신 인�
 - 이 프로젝트에 대한 더 자세한 정보는 [여기](https://github.com/yoonseok312/watch-out)를 참고해주세요.
 
 
-### Watch Ya - 텐서플로우 라이트를 이용한 디바이스
-
-Watch Ya는 전동킥보드 탑승자의 헬멧 착용 여부를 탐지하고, 착용하지 않은 경우 경고 알람을 내보내는 Tiny ML 디바이스를 만드는 프로젝트입니다.   
+### Watch Ya - 딥러닝 기반 비전인식 디바이스 (라즈베리파이 & Coral)
 
 ![./images/watchya.gif](./images/watchya.gif)
+
+Watch Ya는 전동킥보드 탑승자의 헬멧 착용 여부를 탐지하고, 착용하지 않은 경우 경고 알람을 내보내는 Tiny ML 디바이스를 만드는 프로젝트입니다.   
 
 ![./images/systemArchitecture_watchya.png](./images/systemArchitecture_watchya.png)
 
