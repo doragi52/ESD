@@ -61,9 +61,9 @@ Watch Out은 Tensorflow Lite 모델을 이용해 위험한 소리를 대신 인�
 
 Watch Ya는 전동킥보드 탑승자의 헬멧 착용 여부를 탐지하고, 착용하지 않은 경우 경고 알람을 내보내는 Tiny ML 디바이스를 만드는 프로젝트입니다.   
 
-![./images/watchya.gif]()
+![./images/watchya.gif](./images/watchya.gif)
 
-![./images/systemArchitecture_watchya.png](./images/systemArchitecture_watchya.png) 
+![./images/systemArchitecture_watchya.png](./images/systemArchitecture_watchya.png)
 
 - 보다 자세한 내용은 [여기](https://github.com/yunho0130/tensorflow-lite/tree/master/usecase_watchingyou_mobility)를 참고해주세요.
 
