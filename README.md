@@ -104,7 +104,7 @@ Watch Out은 Tensorflow Lite 모델을 이용해 위험한 소리를 대신 인�
     - 실습 코드    
       - [helmet_classification_for_tinyMLproject_part1.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step2_Model_training_and_tflite_convert/helmet_classification_for_tinyMLproject_part1.ipynb)
       - [helmet_classification_for_tinyMLproject_part2.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step2_Model_training_and_tflite_convert/helmet_classification_for_tinyMLproject_part2.ipynb)
-      - [helmet_classification_for_tinyMLproject_part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step2_Model_training_and_tflite_convert/helmet_classification_for_tinyMLproject_par3.ipynb)
+      - [helmet_classification_for_tinyMLproject_part3.ipynb](https://colab.research.google.com/github/yunho0130/tensorflow-lite/blob/master/usecase_watchingyou_mobility/Step2_Model_training_and_tflite_convert/helmet_classification_for_tinyMLproject_part3.ipynb)
 
 	- 설명
 		- Teachable machine 또는 Keras를 통하여 모델을 학습시키고 TFLite로 변환하는 과정
