@@ -42,6 +42,9 @@ TinyML 번역서의 한국 독자들을 위한 한글 소스코드 저장소를 
 `마이크로 컨트롤러용 텐서플로우 라이트 (TensorFlow Lite for Microcontrollers)`는 아주 작은 메모리(KB)를 사용하는 기기에서 머신러닝모델을 실행하도록 텐서플로우 라이트(TensorFlow Lite)를 이식한 프레임워크입니다.
 - 이 프레임워크에 대해 더 자세히 배우고 싶다면 공식개발문서를 확인하세요. [tensorflow.org/lite/microcontrollers](https://www.tensorflow.org/lite/microcontrollers).
 
+### 자주묻는질문 FAQ
+- [Issue #84](https://github.com/yunho0130/tensorflow-lite/issues/84) -  Makefile 관련 clang: error: linker command failed with exit code 1 에러
+
 ### Project Showcase
 
 아래의 프로젝트들은 Tensorflow Lite를 활용하여 진행되었습니다. Tensorflow Lite를 활용한 프로젝트라면 자유롭게 Pull Request를 보내주시면 검토 후 추가하도록 하겠습니다. 
