@@ -44,6 +44,7 @@ TinyML 번역서의 한국 독자들을 위한 한글 소스코드 저장소를 
 
 ### 자주묻는질문 FAQ
 - [Issue #84](https://github.com/yunho0130/tensorflow-lite/issues/84) -  Makefile 관련 clang: error: linker command failed with exit code 1 에러
+- [하드웨어 구매시 주의할 점](http://blog.naver.com/eonnow/222101071611) - eonnow님 리뷰 감사합니다. 
 
 ### Project Showcase
 
